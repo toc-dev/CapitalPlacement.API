@@ -9,6 +9,7 @@ namespace CapitalPlacement.API
         public static void AddServices(this IServiceCollection services, IConfiguration configuration)
         {
             services.AddSingleton<IEmployerService>(InitializeCosmosClientInstanceAsync(configuration.GetSection("CosmosDb")).GetAwaiter().GetResult());
+            services.AddLogging();
         }
 
         public static async Task<EmployerService> InitializeCosmosClientInstanceAsync(IConfiguration configuration)
@@ -17,6 +18,7 @@ namespace CapitalPlacement.API
             var containerName = configuration["ContainerName"];
             var account = configuration["ServiceUri"];
             var key = configuration["Key"];
+            ILogger< EmployerService> logger;
 
             var client = new CosmosClient(account, key);
             var database = await client.CreateDatabaseIfNotExistsAsync(databaseName);
