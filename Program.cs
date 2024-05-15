@@ -1,4 +1,3 @@
-
 namespace CapitalPlacement.API
 {
     public class Program
@@ -11,6 +10,9 @@ namespace CapitalPlacement.API
 
             builder.Services.AddControllers();
             // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddServices(builder.Configuration);
+            
+
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
