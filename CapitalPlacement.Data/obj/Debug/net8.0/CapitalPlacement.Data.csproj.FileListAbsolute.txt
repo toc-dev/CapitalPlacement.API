@@ -1,0 +1,12 @@
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\bin\Debug\net8.0\CapitalPlacement.Data.deps.json
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\bin\Debug\net8.0\CapitalPlacement.Data.dll
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\bin\Debug\net8.0\CapitalPlacement.Data.pdb
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.csproj.AssemblyReference.cache
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.AssemblyInfoInputs.cache
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.AssemblyInfo.cs
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.csproj.CoreCompileInputs.cache
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.dll
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\refint\CapitalPlacement.Data.dll
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\CapitalPlacement.Data.pdb
+C:\Personal Projects\CapitalPlacement\CapitalPlacement.Data\obj\Debug\net8.0\ref\CapitalPlacement.Data.dll
